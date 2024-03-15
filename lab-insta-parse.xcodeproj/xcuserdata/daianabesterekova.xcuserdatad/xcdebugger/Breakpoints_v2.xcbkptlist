@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1789DA95-1681-4C7B-A3BF-BCD09D909C81"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30F31367-D6FE-470B-8E0D-13DB5A3BD88B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lab-insta-parse/Feed/FeedViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "FeedViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "30F31367-D6FE-470B-8E0D-13DB5A3BD88B - 393ecfc9f06d6cf4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab_insta_parse.FeedViewController.postButton.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "lab-insta-parse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daianabesterekova/Desktop/THE%20REAL%20PROJECT/lab-insta-parse/Feed/FeedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "30F31367-D6FE-470B-8E0D-13DB5A3BD88B - 3f93b03122173cf8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab_insta_parse.FeedViewController.postButton.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "lab-insta-parse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daianabesterekova/Desktop/THE%20REAL%20PROJECT/lab-insta-parse/Feed/FeedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "30F31367-D6FE-470B-8E0D-13DB5A3BD88B - e14c1bddca3dc889"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab_insta_parse.FeedViewController.postButton.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "lab-insta-parse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daianabesterekova/Desktop/THE%20REAL%20PROJECT/lab-insta-parse/Feed/FeedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "30F31367-D6FE-470B-8E0D-13DB5A3BD88B - 858147d481d1aadf"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab_insta_parse.FeedViewController.postButton.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "lab-insta-parse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daianabesterekova/Desktop/THE%20REAL%20PROJECT/lab-insta-parse/Feed/FeedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "30F31367-D6FE-470B-8E0D-13DB5A3BD88B - a213fe1f5bd9496c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab_insta_parse.FeedViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; lab_insta_parse.FeedViewController"
+                  moduleName = "lab-insta-parse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daianabesterekova/Desktop/THE%20REAL%20PROJECT/lab-insta-parse/Feed/FeedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "30F31367-D6FE-470B-8E0D-13DB5A3BD88B - be5df97d9c9f929"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lab_insta_parse.FeedViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;lab_insta_parse.FeedViewController&gt;"
+                  moduleName = "lab-insta-parse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daianabesterekova/Desktop/THE%20REAL%20PROJECT/lab-insta-parse/Feed/FeedViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
