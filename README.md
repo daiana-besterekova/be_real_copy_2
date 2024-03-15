@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-![](https://github.com/daiana-besterekova/be_real_copy/blob/9e936b00f0a43b457b59d77d6544abc3c0ce000f/ezgif.com-video-to-gif-converter%20(2).gif).
+![](https://github.com/daiana-besterekova/be_real_copy_2/blob/3d40ce6c16eed2f9cf0981efe210d794d0da4b6e/ezgif.com-video-to-gif-converter%20(3).gif)
 
 
 ## Notes
